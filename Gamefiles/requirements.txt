@@ -1,0 +1,7 @@
+pygame
+pygame.image
+pygame.locals
+tkinter.messagebox
+inspect
+tkinter
+PIL
